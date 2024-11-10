@@ -1,0 +1,42 @@
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.deps.json
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\ref\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csprojAssemblyReference.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfoInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfo.cs
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csproj.CoreCompileInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\ref\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.deps.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\ref\CaseStudy.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csprojAssemblyReference.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfoInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfo.cs
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csproj.CoreCompileInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csproj.CopyComplete
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\ref\CaseStudy.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.pdb
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.deps.json
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.dll
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\ref\CaseStudy.Core.dll
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.Core.pdb
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy.Core\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csprojAssemblyReference.cache
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfoInputs.cache
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.AssemblyInfo.cs
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.csproj.CopyComplete
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.dll
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\ref\CaseStudy.Core.dll
+D:\GitHub\CaseStudy\CaseStudy.Core\obj\Debug\net5.0\CaseStudy.Core.pdb

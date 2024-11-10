@@ -1,0 +1,41 @@
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.deps.json
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Entities.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Entities.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.Core.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csprojAssemblyReference.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfo.cs
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CopyComplete
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.deps.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csprojAssemblyReference.cache
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.deps.json
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csprojAssemblyReference.cache
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.AssemblyInfo.cs
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\ref\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy.DataAccess\obj\Debug\net5.0\CaseStudy.DataAccess.pdb

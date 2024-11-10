@@ -1,0 +1,253 @@
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.Development.json
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.json
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.exe
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.deps.json
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.json
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.dev.json
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\ref\CaseStudy.WebApi.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.SqlBuilder.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\FirebaseAdmin.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.Odbc.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\ACK_MODULES.Business.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\ACK_MODULES.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\ACK_MODULES.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\ACK_MODULES.Entities.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csprojAssemblyReference.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfoInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfo.cs
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CoreCompileInputs.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.Manifest.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.xml
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\scopedcss\bundle\CaseStudy.WebApi.styles.css
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.RazorTargetAssemblyInfo.cache
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CopyComplete
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\ref\CaseStudy.WebApi.dll
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.pdb
+D:\Aceka\Project\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.genruntimeconfig.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.exe
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.deps.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.dev.json
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\ref\CaseStudy.WebApi.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.SqlBuilder.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\FirebaseAdmin.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csprojAssemblyReference.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfoInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfo.cs
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.xml
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\scopedcss\bundle\CaseStudy.WebApi.styles.css
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CopyComplete
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\ref\CaseStudy.WebApi.dll
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.pdb
+C:\Users\MUSA KIR\Desktop\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.genruntimeconfig.cache
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\appsettings.json
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.exe
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.deps.json
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.json
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.runtimeconfig.dev.json
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\ref\CaseStudy.WebApi.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.WebApi.pdb
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Dapper.SqlBuilder.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\FirebaseAdmin.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.Odbc.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.dll
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Business.pdb
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Core.pdb
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.DataAccess.pdb
+D:\GitHub\CaseStudy\CaseStudy\bin\Debug\net5.0\CaseStudy.Entities.pdb
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csprojAssemblyReference.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfoInputs.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.AssemblyInfo.cs
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CoreCompileInputs.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.Manifest.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\staticwebassets\CaseStudy.WebApi.StaticWebAssets.xml
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\scopedcss\bundle\CaseStudy.WebApi.styles.css
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.RazorTargetAssemblyInfo.cache
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.csproj.CopyComplete
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.dll
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\ref\CaseStudy.WebApi.dll
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.pdb
+D:\GitHub\CaseStudy\CaseStudy\obj\Debug\net5.0\CaseStudy.WebApi.genruntimeconfig.cache
